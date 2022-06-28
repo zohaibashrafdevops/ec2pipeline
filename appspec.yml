@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /gym/index.html
+  - source: royal/*
     destination: /var/www/html/
 hooks:
    BeforeInstall:
