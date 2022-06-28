@@ -1,4 +1,0 @@
-#!/bin/bash
-cd /var/www/html
-yum install unzip -y
-unzip royal.zip
