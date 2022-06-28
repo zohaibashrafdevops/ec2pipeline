@@ -1,4 +1,6 @@
 #!/bin/bash
 cd /var/www/html
-sudo chmod -R 777 royal/
-sudo cp -rvf royal/* .
+pwd
+ls -l
+sudo chmod -R 777 .
+
