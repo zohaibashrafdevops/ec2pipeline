@@ -1,5 +1,4 @@
 #!/bin/bash
 systemctl restart httpd
-setsebool -P httpd_can_network_connect_db 1
 systemctl is-enabled httpd
 
